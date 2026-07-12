@@ -1,5 +1,24 @@
-cheat_log.zip
+﻿cheat_log.zip
 cheat_log/
 mfp-diaries.tsv
 *.tsv
-.env 
+.env
+build/
+.dart_tool/
+.gradle/
+*.jks
+*.rar
+*.zip
+*.log
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+.vscode/
+New folder/
+windows/flutter/ephemeral/
+.flutter-plugins-dependencies
+.metadata
+nutrifit-upload.jks
+lib.zip
+hs_err_pid*.log
