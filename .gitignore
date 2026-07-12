@@ -1,0 +1,25 @@
+﻿cheat_log.zip
+cheat_log/
+mfp-diaries.tsv
+*.tsv
+.env
+__pycache__/
+*.pyc
+.idea/
+.venv/
+*.rar
+*.zip
+*.pkl
+*.mp4
+nutrifit_tests_v2_complete.zip
+nutrifit_tests_v2_complete/
+New folder/
+Food Images.rar
+compensation_plan.png
+ml_metrics.png
+Excercise Videos/
+videos/
+Food Images/
+whitebox/__pycache__/
+testing/__pycache__/
+nutrifit_tests/__pycache__/
