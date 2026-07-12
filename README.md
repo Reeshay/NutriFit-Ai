@@ -12,6 +12,8 @@ AI Chatbot: Offers motivation, tracks progress, and answers user queries.
 
 Cheat Meal Detection: Allows users to upload images of meals, analyzes caloric intake, and adjusts future meals or workouts to maintain balance.
 
+ Gamification and Notficiation: Helps motivating people for being consistent.
+
 Adaptive Plan Updates: The system updates diet and workout plans every 15 days based on user progress.
 
 Technologies Used:
@@ -22,6 +24,6 @@ Python AI Models (XGBoost, MediaPipe) for nutrition and fitness recommendations.
 
 TensorFlow Lite and MobileNet for calorie estimation via image recognition.
 
-ChatGPT API for conversational engagement and personalized coaching.
+Gemini API for conversational engagement and personalized coaching.
 
 NutriFit AI is built to provide a comprehensive, engaging, and adaptive health management solution, making it easier for users to maintain a healthy lifestyle
